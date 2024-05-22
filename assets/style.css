@@ -8,10 +8,11 @@
     width: 100%;
     height: 120px;
     background-color: blue;
-    color: black;
+    color: white;
    }
    
    h1{
+<<<<<<< HEAD
     text-align: center;
     color: white;
    }
@@ -24,8 +25,23 @@ h2 {
    h3 {
     text-align: center;
     color: black;
+=======
+    text-align: center;
+    color: white;
+   }
+
+
+   h2 {
+    text-align: center;
+    color: white;
+>>>>>>> 61d9cf009009292fc85cdaead87817766d9b2c33
    }
    
+   h3 {
+    text-align: center;
+    color: black;
+  }
+  
    img {
     display: block;
     height: 50px;
@@ -37,16 +53,24 @@ h2 {
    ul {
     padding-left: 40px;
     font-size: 20px;
+    color: black;
    }
    
    p {
     text-align: center;
     font-size: 30px;
     color: white;
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 61d9cf009009292fc85cdaead87817766d9b2c33
    }
+
    .card {
     width: 80%;
     margin: 40px auto;
     border: 5px solid blue;
     box-shadow: 5px 10px #888888;
   }
+
+  
