@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 const randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
@@ -26,7 +26,7 @@ console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
-=======
+ main
 
 /* var topics = "Let's study HMTL!"; 
 
@@ -60,7 +60,7 @@ listTopics();
 
 console.log('Which topic should we study first?');
 selectTopic();
-=======
+
 /* var topics = "Let's study HMTL!"; 
 
  console.log(topics); */
@@ -89,4 +89,3 @@ if (topic === 'HTML') {
     */
 
 
->>>>>>> 61d9cf009009292fc85cdaead87817766d9b2c33
